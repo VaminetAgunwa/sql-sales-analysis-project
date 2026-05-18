@@ -1,0 +1,25 @@
+"Order_ID";"Order_Date";"Ship_Date";"Customer_Name";"Region";"Product";"Category";"quantity";"unit_price";"Total_Sales";"Payment_Method";"Status";"row_num"
+1001;"2023-01-05";"2023-01-05";"John Doe";"WEST";"Laptop";"Electronics";2;850.0;1700;"Credit Card";"Completed";1
+1002;"2023-01-06";"2023-01-07";"Mary Johnson";"EAST";"Phone";"Electronics";1;500.0;500;"Cash";"Completed";1
+1003;"2023-01-07";"2023-09-01";"David Smith";"NORTH";"Tablet";"Electronics";3;300.0;900;"Debit Card";"Pending";1
+1004;"2023-08-01";"Not Specified";"Jane Lee";"SOUTH";"Headphones";"Electronics";5;50.0;250;"Credit Card";"Completed";1
+1005;"2023-01-09";"2023-01-10";"Chris Brown";"WEST";"Laptop";"Electronics";1;850.0;850;"Not Specified";"Completed";1
+1006;"2023-01-10";"2023-01-12";"Unknown";"EAST";"Phone";"Electronics";2;500.0;1000;"Cash";"Cancelled";1
+1007;"2023-01-11";"13-01-2023";"Michael Scott";"NORTH";"Unknown";"Electronics";1;300.0;300;"Debit Card";"Completed";1
+1009;"2023-01-12";"2023-01-14";"John Doe";"WEST";"Laptop";"Electronics";-1;850.0;-850;"Credit Card";"Returned";1
+1010;"2023-01-13";"15-01-2023";"Mary Johnson";"EAST";"Phone";"Electronics";1;500.0;500;"Cash";"Completed";1
+1011;"2023-01-14";"2023-01-16";"David Smith";"NORTH";"Tablet";"Electronics";2;300.0;600;"Debit Card";"Completed";1
+1013;"2023-01-16";"2023-01-18";"Chris Brown";"WEST";"Laptop";"Electronics";1;850.0;850;"Credit Card";"Completed";1
+1014;"2023-01-17";"2023-01-19";"Mary Johnson";"EAST";"Phone";"Electronics";1;500.0;500;"Cash";"Completed";1
+1015;"2023-01-18";"Not Specified";"David Smith";"NORTH";"Tablet";"Electronics";2;300.0;600;"Debit Card";"Pending";1
+1016;"2023-01-19";"2023-01-21";"Jane Lee";"SOUTH";"Headphones";"Electronics";3;50.0;150;"Credit Card";"Completed";1
+1017;"2023-01-20";"2023-01-22";"Chris Brown";"WEST";"Laptop";"Electronics";1;850.0;850;"Credit Card";"Completed";1
+1018;"2023-01-21";"2023-01-23";"Michael Scott";"NORTH";"Tablet";"Electronics";2;300.0;600;"Debit Card";"Completed";1
+1019;"2023-01-22";"2023-01-24";"Sarah Connor";"SOUTH";"Phone";"Electronics";1;500.0;500;"Cash";"Completed";1
+1020;"2023-01-23";"2023-01-25";"John Doe";"WEST";"Laptop";"Electronics";2;850.0;1700;"Credit Card";"Completed";1
+1021;"2023-01-24";"2023-01-26";"Mary Johnson";"EAST";"Phone";"Electronics";1;500.0;500;"Cash";"Completed";1
+1022;"2023-01-25";"2023-01-27";"David Smith";"NORTH";"Tablet";"Electronics";2;300.0;600;"Debit Card";"Completed";1
+1023;"2023-01-26";"2023-01-28";"Jane Lee";"SOUTH";"Headphones";"Electronics";3;50.0;150;"Credit Card";"Completed";1
+1024;"2023-01-27";"2023-01-29";"Chris Brown";"WEST";"Laptop";"Electronics";1;850.0;850;"Credit Card";"Completed";1
+1025;"2023-01-28";"2023-01-30";"Michael Scott";"NORTH";"Tablet";"Electronics";2;300.0;600;"Debit Card";"Completed";1
+1026;"2023-01-29";"2023-01-31";"Sarah Connor";"SOUTH";"Phone";"Electronics";1;500.0;500;"Cash";"Completed";1
