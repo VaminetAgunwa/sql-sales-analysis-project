@@ -66,14 +66,14 @@ Key analysis performed:
 
 ---
 
-🚀 Project Overview
+## 🚀 Project Overview
 This project analyzes sales performance and trends.
 
-📂 Project Files
-📁 Raw Dataset [https://github.com/VaminetAgunwa/sql-sales-analysis-project/blob/main/data/raw%20dataset.%20csv]
-📁 Cleaned Dataset [https://github.com/VaminetAgunwa/sql-sales-analysis-project/blob/main/data/cleaned%20dataset.%20csv]
-📊 Dashboard_preview.png [https://github.com/VaminetAgunwa/sql-sales-analysis-project/blob/main/images/dashboard_preview.png%202.png]
-
+## 📂 Project Files
+- 📁 [Raw Dataset](https://github.com/VaminetAgunwa/sql-sales-analysis-project/blob/main/data/raw%20dataset.%20csv)
+- 📁 [Cleaned Dataset](https://github.com/VaminetAgunwa/sql-sales-analysis-project/blob/main/data/cleaned%20dataset.%20csv)
+- 📊 [Dashboard_preview.png](https://github.com/VaminetAgunwa/sql-sales-analysis-project/blob/main/images/dashboard_preview.png%202.png)
+  
 ---
 
 ## 📂 Project Structure
