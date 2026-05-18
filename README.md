@@ -76,6 +76,12 @@ This project analyzes sales performance and trends.
   
 ---
 
+## 📷 Dashboard Preview.png
+
+![Dashboard Preview](https://github.com/VaminetAgunwa/sql-sales-analysis-project/blob/main/images/dashboard_preview.png%202.png)
+
+---
+
 ## 📂 Project Structure
 
 * `data/` → datasets
